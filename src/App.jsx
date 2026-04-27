@@ -15,7 +15,7 @@ function App() {
       fontFamily: "Arial, sans-serif"
     }}>
       <header style={{ textAlign: "center", padding: "2rem" }}>
-        <h1 style={{ color: dark ? "#ffffff" : "#1a73e8" }}>Vlad Pavliv — Portfolio</h1>
+        <h1 style={{ color: dark ? "#ffffff" : "#1a73e8" }}>Vlad Pavliv — Web Developer</h1>
         <button onClick={() => setDark(!dark)} style={{
           marginTop: "1rem", padding: "8px 20px",
           borderRadius: "8px", border: "1px solid #888",
